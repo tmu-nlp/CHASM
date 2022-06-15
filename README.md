@@ -1,3 +1,6 @@
+
+[![](https://img.shields.io/badge/license-CC%20BY--NC--SA-green)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
+
 # CHASM: A Corpus of Countering HAte Speech and Microaggressions
 This is a repository for the corpus of Countering HAte Speech and Microaggressions (CHASM).
 CHASM is pronounced /ˈkæzəm/, as in "Crossing the Chasm."
