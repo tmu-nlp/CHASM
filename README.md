@@ -10,8 +10,8 @@ The CHASM dataset contains:
   - offensiveness, stance, and informativeness of each model's generation
 
 ## Dataset
-* `CONAN.json`
-* `SBIC.json`
+* `counter_conan.json`
+* `counter_sbic.json`
 
 ### Formats
 
