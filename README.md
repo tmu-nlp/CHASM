@@ -102,4 +102,4 @@ As well as [SBIC](https://aclanthology.org/2020.acl-main.486/) and [SelfMA](http
 
 ## Contact
 
-maashida@yahoo-corp.jp
+Mana ASHIDA, maashida@yahoo-corp.jp
