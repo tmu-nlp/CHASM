@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/license-CC%20BY--NC--SA-green)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
 
 # CHASM: A Corpus of Countering HAte Speech and Microaggressions
-This is a repository for the corpus of Countering HAte Speech and Microaggressions (CHASM).
+This is a repository for the corpus of Countering HAte Speech and Microaggressions (CHASM), introduced in the paper titled: [Towards Automatic Generation of Messages Countering Online Hate Speech and Microaggressions](https://aclanthology.org/2022.woah-1.2/).
 CHASM is pronounced /ˈkæzəm/, as in "Crossing the Chasm."
 
 ## About CHASM
@@ -35,7 +35,20 @@ The formats of each dataset:
 
 ## Citation
 
-Mana Ashida and Mamoru Komachi. Towards Automatic Generation of Messages Countering Online Hate Speech and Microaggressions. The 6th Workshop on Online Abuse and Harms (WOAH) 2022. (to appear)
+```
+@inproceedings{ashida-komachi-2022-towards,
+    title = "Towards Automatic Generation of Messages Countering Online Hate Speech and Microaggressions",
+    author = "Ashida, Mana  and
+      Komachi, Mamoru",
+    booktitle = "Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH)",
+    month = jul,
+    year = "2022",
+    address = "Seattle, Washington (Hybrid)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.woah-1.2",
+    pages = "11--23"
+    }
+```
 
 
 Please also cite following [CONAN](https://github.com/marcoguerini/CONAN) datasets (link to github repo):
